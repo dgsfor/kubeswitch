@@ -6,4 +6,4 @@
 source kubeswitch.sh
 ```
 ### 效果
-<img src="https://gitlab.meitu.com/lb6/kubeswitch/raw/master/images/out.png"/>
+<img src="https://github.com/gsgs-libin/kubeswitch/raw/master/images/output.png"/>
